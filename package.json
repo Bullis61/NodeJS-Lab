@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-lab1",
+  "version": "1.0.0",
+  "description": "First lab using NodeJS",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Isbell",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
